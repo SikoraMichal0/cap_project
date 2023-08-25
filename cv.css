@@ -1,0 +1,10 @@
+.CV {
+    display: flex;
+    justify-content: center;
+}
+
+.profile_photo {
+    display: flex;
+    justify-content: center;
+}
+
